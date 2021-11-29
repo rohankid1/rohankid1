@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi developers I'm a developer!
+
+### Linux is awesome!
+<img src="https://avatars.githubusercontent.com/u/25133954?v=4"></img>
+
 
 <!--
 **rohankid1/rohankid1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
